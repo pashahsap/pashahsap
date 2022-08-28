@@ -1,0 +1,4 @@
+- Hi, I’m Pasha
+- I’m interested in Philosophy, Culture and Games.
+- I’m currently learning C Language.
+- How to reach me ? -> Discord : Pasha#9915
