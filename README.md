@@ -1,4 +1,4 @@
-- Hi, I’m Pasha
+- Hi, I’m Filozofi
 - I’m interested in Philosophy, Culture and Games.
-- I’m currently learning C Language.
+- I’m currently learning C++ Language.
 - How to reach me ? -> Discord : Filozof#6070
